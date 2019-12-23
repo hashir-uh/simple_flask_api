@@ -1,0 +1,6 @@
+*.py[cod]
+
+# Packages
+dist
+__pycache__
+my_env/
